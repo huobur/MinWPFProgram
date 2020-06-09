@@ -347,9 +347,12 @@ That's all for this project.
 
 We are not propose to design extreme way or the other, we simply want to understand WPF better through this exercise. In real world, the best way is to use both XAML and code to design optimal products.
 
+The final project code can be downloaded at [3]
 
 # Reference
 
 [1] https://docs.microsoft.com/en-us/dotnet/desktop-wpf/fundamentals/xaml
 
 [2] https://docs.microsoft.com/en-us/dotnet/framework/wpf/advanced/wpf-architecture 
+
+[3] https://github.com/huobur/MinWPFProgram
