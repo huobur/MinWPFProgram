@@ -1,0 +1,15 @@
+﻿<Window x:Class="xaml2009.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        >
+	<TextBlock>Hello, World!"</TextBlock>
+	
+    <x:Code><![CDATA[
+        public MainWindow()
+        {
+            InitializeComponent();
+        }
+    ]]></x:Code>
+  
+</Window>
+
