@@ -4,7 +4,7 @@ I know that this is just too old of a topic for any language on a platform.
 But I'd like to explore it from several different angles since this is not simply a program language anymore. WPF is built on a managed code system with .NET platform on Windows. There are much more involved. For our task, we'll use C# and .NET Core 3.x or .NET 5.0.
 As we all know that it's quite simple in a specific language only "Hello, World!" program, which is usually just displaying a line of text "Hello, World!" on a console.
 
-![image1](Wiki.png)
+![image1](Images/Wiki.png)
 
 In our case, WPF is a modern Windows UI design paradigm which consists of two categories of components: XAML and Code, where XAML is nothing but a markup language to organize supported types with much better UI presentation, and the code portion is usually called code-behind for actions and state changes to support XAML design and other tasks. For XAML purists, they would like to push as much as possible with their designs to XAML, and people who just move to WPF from WinForms and the like will feel much at home with just code to accomplish the tasks at hands.
 
@@ -217,7 +217,7 @@ For "MainWindow.xaml", we can remove <Grid></Grid> as it's empty. we can also re
 So, here you have it: 3 files in our XAML only WPF "Hello, World!" program.
 * If you insist, we can add "<TextBlock>Hello, World!"</TextBlock>" either above the inline code or below, and run it, we will see:
 
-![image2](HelloWorld.png)
+![image2](Images/HelloWorld.png)
 
 2. Code Only "Hello, World!"
 * Since we are only working on code for WPF, we can delete the XMAL files and "obj" directory.
