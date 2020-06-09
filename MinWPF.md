@@ -350,7 +350,7 @@ There are many other ways to display it as well.
 
 That's all for this project. 
 
-We are not propose to design extreme way or the other, we simply want to understand WPF better through this exercise. In real world, the best way is to use both XAML and code to design optimal products.
+In this article, we are not advocating to design purely with XMAL or code, we simply want to understand WPF better through this exercise.
 
 The final project code can be downloaded at [3]
 
@@ -361,3 +361,5 @@ The final project code can be downloaded at [3]
 [2] https://docs.microsoft.com/en-us/dotnet/framework/wpf/advanced/wpf-architecture 
 
 [3] https://github.com/huobur/MinWPFProgram
+
+[4] https://medium.com/dev-genius/minimum-hello-world-program-for-wpf-on-net-core-af448fa5e51f
